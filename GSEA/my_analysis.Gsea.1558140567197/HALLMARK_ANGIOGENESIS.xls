@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNFRSF21	TNFRSF21	tumor necrosis factor receptor superfamily, member 21	251	0.999843418598175	0.045838296	No	
+row_1	PTK2	PTK2	PTK2 protein tyrosine kinase 2	1182	0.4190814793109894	-0.047456425	No	
+row_2	APOH	APOH	apolipoprotein H (beta-2-glycoprotein I)	1577	0.3197230398654938	-0.0755945	No	
+row_3	APP	APP	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)	2286	0.17989641427993774	-0.15776296	No	
+row_4	ITGAV	ITGAV	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)	3028	0.06842250376939774	-0.2533607	No	
+row_5	SLCO2A1	SLCO2A1	solute carrier organic anion transporter family, member 2A1	5676	-0.4122222661972046	-0.58141565	Yes	
+row_6	COL5A2	COL5A2	collagen, type V, alpha 2	5882	-0.47090160846710205	-0.57166505	Yes	
+row_7	VTN	VTN	vitronectin	5945	-0.49176913499832153	-0.540737	Yes	
+row_8	NRP1	NRP1	neuropilin 1	5959	-0.49442049860954285	-0.5029126	Yes	
+row_9	S100A4	S100A4	S100 calcium binding protein A4	6326	-0.6266827583312988	-0.50264716	Yes	
+row_10	LUM	LUM	lumican	6643	-0.7596899271011353	-0.484909	Yes	
+row_11	LPL	LPL	lipoprotein lipase	6793	-0.8676537275314331	-0.43574414	Yes	
+row_12	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	6841	-0.8958295583724976	-0.37040916	Yes	
+row_13	VAV2	VAV2	vav 2 oncogene	6844	-0.8987460732460022	-0.2987023	Yes	
+row_14	FSTL1	FSTL1	follistatin-like 1	6927	-0.9752768278121948	-0.23177873	Yes	
+row_15	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	7077	-1.158955454826355	-0.15928379	Yes	
+row_16	PGLYRP1	PGLYRP1	peptidoglycan recognition protein 1	7091	-1.191115140914917	-0.06566185	Yes	
+row_17	POSTN	POSTN	periostin, osteoblast specific factor	7135	-1.2558778524398804	0.029054651	Yes	

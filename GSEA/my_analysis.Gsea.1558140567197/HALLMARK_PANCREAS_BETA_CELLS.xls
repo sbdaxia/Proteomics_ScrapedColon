@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STXBP1	STXBP1	syntaxin binding protein 1	487	0.7534784078598022	0.028949125	No	
+row_1	SRP9	SRP9	signal recognition particle 9kDa	2020	0.2269165813922882	-0.15122484	No	
+row_2	PKLR	PKLR	pyruvate kinase, liver and RBC	2024	0.2264496088027954	-0.12297685	No	
+row_3	DPP4	DPP4	dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2)	2621	0.12764830887317657	-0.18808839	No	
+row_4	ELP4	ELP4	elongation protein 4 homolog (S. cerevisiae)	3643	-0.02624708041548729	-0.32398146	No	
+row_5	SRP14	SRP14	signal recognition particle 14kDa (homologous Alu RNA binding protein)	4427	-0.1504380702972412	-0.41170663	No	
+row_6	AKT3	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	4838	-0.22352872788906097	-0.43932325	No	
+row_7	VDR	VDR	vitamin D (1,25- dihydroxyvitamin D3) receptor	5624	-0.3994050920009613	-0.49581453	Yes	
+row_8	HNF1A	null	null	5891	-0.4745074212551117	-0.47203538	Yes	
+row_9	FOXO1	null	null	6371	-0.647268533706665	-0.45543623	Yes	
+row_10	CHGA	CHGA	chromogranin A (parathyroid secretory protein 1)	6622	-0.74993896484375	-0.39461976	Yes	
+row_11	SCGN	SCGN	secretagogin, EF-hand calcium binding protein	6742	-0.8267961740493774	-0.30621508	Yes	
+row_12	PCSK2	PCSK2	proprotein convertase subtilisin/kexin type 2	6870	-0.9199000000953674	-0.20711896	Yes	
+row_13	GCG	GCG	glucagon	6993	-1.0439828634262085	-0.09163849	Yes	
+row_14	SPCS1	SPCS1	signal peptidase complex subunit 1 homolog (S. cerevisiae)	7033	-1.1055525541305542	0.04295074	Yes	

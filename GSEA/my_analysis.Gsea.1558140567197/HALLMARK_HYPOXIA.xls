@@ -1,0 +1,102 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GAPDHS	GAPDHS	glyceraldehyde-3-phosphate dehydrogenase, spermatogenic	8	2.7385759353637695	0.044167463	Yes	
+row_1	DTNA	DTNA	dystrobrevin, alpha	68	1.524440884590149	0.061227717	Yes	
+row_2	SULT2B1	SULT2B1	sulfotransferase family, cytosolic, 2B, member 1	70	1.5044851303100586	0.08596029	Yes	
+row_3	F3	F3	coagulation factor III (thromboplastin, tissue factor)	105	1.339051604270935	0.10340511	Yes	
+row_4	SLC2A1	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1	135	1.2160568237304688	0.11950656	Yes	
+row_5	NDRG1	NDRG1	N-myc downstream regulated gene 1	155	1.1780155897140503	0.13635884	Yes	
+row_6	CA12	CA12	carbonic anhydrase XII	184	1.1240884065628052	0.15107794	Yes	
+row_7	EFNA1	EFNA1	ephrin-A1	200	1.089194416999817	0.16701381	Yes	
+row_8	AMPD3	AMPD3	adenosine monophosphate deaminase (isoform E)	211	1.0689395666122437	0.18330468	Yes	
+row_9	MAFF	MAFF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)	218	1.0525177717208862	0.19987597	Yes	
+row_10	ALDOB	ALDOB	aldolase B, fructose-bisphosphate	228	1.0411250591278076	0.21584502	Yes	
+row_11	PLIN2	null	null	249	1.0003087520599365	0.22962166	Yes	
+row_12	BHLHE40	null	null	280	0.9648216962814331	0.241432	Yes	
+row_13	PFKL	PFKL	phosphofructokinase, liver	306	0.9220501780509949	0.25322512	Yes	
+row_14	IRS2	IRS2	insulin receptor substrate 2	340	0.8831787705421448	0.26327193	Yes	
+row_15	FAM162A	null	null	349	0.8747317790985107	0.2766283	Yes	
+row_16	PGM2	PGM2	phosphoglucomutase 2	366	0.8592581748962402	0.28862512	Yes	
+row_17	PGM1	PGM1	phosphoglucomutase 1	374	0.8536302447319031	0.30177066	Yes	
+row_18	NAGK	NAGK	N-acetylglucosamine kinase	664	0.6242979764938354	0.2722178	No	
+row_19	SLC25A1	SLC25A1	solute carrier family 25 (mitochondrial carrier; citrate transporter), member 1	720	0.5930595397949219	0.27443334	No	
+row_20	ALDOC	ALDOC	aldolase C, fructose-bisphosphate	721	0.5924404859542847	0.28422692	No	
+row_21	LDHA	LDHA	lactate dehydrogenase A	755	0.5776252150535583	0.28922263	No	
+row_22	PHKG1	PHKG1	phosphorylase kinase, gamma 1 (muscle)	793	0.561341404914856	0.29339728	No	
+row_23	GPI	GPI	glucose phosphate isomerase	873	0.5274242162704468	0.29121652	No	
+row_24	HK1	HK1	hexokinase 1	1008	0.4788130521774292	0.2806439	No	
+row_25	UGP2	UGP2	UDP-glucose pyrophosphorylase 2	1040	0.465129554271698	0.2840559	No	
+row_26	PDK1	PDK1	pyruvate dehydrogenase kinase, isozyme 1	1043	0.46439337730407715	0.2914568	No	
+row_27	CASP6	CASP6	caspase 6, apoptosis-related cysteine peptidase	1051	0.4631061553955078	0.2981466	No	
+row_28	MYH9	MYH9	myosin, heavy chain 9, non-muscle	1216	0.409986674785614	0.28229713	No	
+row_29	SDC4	SDC4	syndecan 4 (amphiglycan, ryudocan)	1504	0.3368241488933563	0.24826801	No	
+row_30	ANKZF1	ANKZF1	ankyrin repeat and zinc finger domain containing 1	1536	0.32887670397758484	0.2494276	No	
+row_31	GBE1	GBE1	glucan (1,4-alpha-), branching enzyme 1 (glycogen branching enzyme, Andersen disease, glycogen storage disease type IV)	1600	0.31254151463508606	0.24590215	No	
+row_32	GYS1	GYS1	glycogen synthase 1 (muscle)	1641	0.30341866612434387	0.24539919	No	
+row_33	GPC4	GPC4	glypican 4	1657	0.2997766435146332	0.24828523	No	
+row_34	MT1E	MT1E	metallothionein 1E (functional)	1693	0.28846582770347595	0.24822493	No	
+row_35	RBPJ	null	null	1730	0.28209054470062256	0.24792126	No	
+row_36	FOXO3	null	null	1733	0.28165140748023987	0.25230128	No	
+row_37	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1748	0.2788846492767334	0.25497994	No	
+row_38	GRHPR	GRHPR	glyoxylate reductase/hydroxypyruvate reductase	1768	0.27559906244277954	0.25691444	No	
+row_39	PGK1	PGK1	phosphoglycerate kinase 1	1873	0.2547934949398041	0.24677762	No	
+row_40	PCK1	PCK1	phosphoenolpyruvate carboxykinase 1 (soluble)	1984	0.23411980271339417	0.23547125	No	
+row_41	PFKP	PFKP	phosphofructokinase, platelet	2017	0.2275572121143341	0.23481797	No	
+row_42	PKLR	PKLR	pyruvate kinase, liver and RBC	2024	0.2264496088027954	0.23773357	No	
+row_43	FOSL2	FOSL2	FOS-like antigen 2	2031	0.22506283223628998	0.24062626	No	
+row_44	TPI1	TPI1	triosephosphate isomerase 1	2069	0.21982280910015106	0.23915528	No	
+row_45	ZNF292	ZNF292	zinc finger protein 292	2107	0.21263891458511353	0.23756555	No	
+row_46	B3GALT6	B3GALT6	UDP-Gal:betaGal beta 1,3-galactosyltransferase polypeptide 6	2387	0.16484928131103516	0.20179728	No	
+row_47	JMJD6	null	null	2454	0.15393833816051483	0.19523606	No	
+row_48	PYGM	PYGM	phosphorylase, glycogen; muscle (McArdle syndrome, glycogen storage disease type V)	2501	0.14584419131278992	0.19130042	No	
+row_49	ALDOA	ALDOA	aldolase A, fructose-bisphosphate	2556	0.13809293508529663	0.1861329	No	
+row_50	PRDX5	PRDX5	peroxiredoxin 5	2592	0.13255684077739716	0.18349527	No	
+row_51	PFKFB3	PFKFB3	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3	2607	0.12981195747852325	0.1837096	No	
+row_52	PAM	PAM	peptidylglycine alpha-amidating monooxygenase	3074	0.061919618397951126	0.120439604	No	
+row_53	NEDD4L	NEDD4L	neural precursor cell expressed, developmentally down-regulated 4-like	3109	0.05628177151083946	0.11667904	No	
+row_54	ENO1	ENO1	enolase 1, (alpha)	3184	0.04384465143084526	0.107194126	No	
+row_55	XPNPEP1	XPNPEP1	X-prolyl aminopeptidase (aminopeptidase P) 1, soluble	3300	0.026507679373025894	0.09176587	No	
+row_56	KDM3A	null	null	3338	0.021437088027596474	0.08701539	No	
+row_57	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	3533	-0.007917618378996849	0.060380276	No	
+row_58	FBP1	FBP1	fructose-1,6-bisphosphatase 1	3553	-0.011731642298400402	0.0579528	No	
+row_59	PDK3	PDK3	pyruvate dehydrogenase kinase, isozyme 3	3625	-0.02441791631281376	0.04856064	No	
+row_60	ANXA2	ANXA2	annexin A2	3679	-0.03228304907679558	0.04178195	No	
+row_61	HK2	HK2	hexokinase 2	3775	-0.043833669275045395	0.029399497	No	
+row_62	IGFBP3	IGFBP3	insulin-like growth factor binding protein 3	3847	-0.05553322657942772	0.020521708	No	
+row_63	GAA	GAA	glucosidase, alpha; acid (Pompe disease, glycogen storage disease type II)	4002	-0.08215439319610596	6.325555E-4	No	
+row_64	JUN	JUN	jun oncogene	4121	-0.10001209378242493	-0.013994505	No	
+row_65	NDST2	NDST2	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 2	4436	-0.1520071178674698	-0.054803982	No	
+row_66	LXN	LXN	latexin	4664	-0.19349075853824615	-0.08292438	No	
+row_67	MIF	MIF	macrophage migration inhibitory factor (glycosylation-inhibiting factor)	5041	-0.2652443051338196	-0.13041602	No	
+row_68	GLRX	GLRX	glutaredoxin (thioltransferase)	5070	-0.2711085379123688	-0.12979749	No	
+row_69	TGFBI	TGFBI	transforming growth factor, beta-induced, 68kDa	5083	-0.2739395797252655	-0.12692463	No	
+row_70	BGN	BGN	biglycan	5307	-0.3242409825325012	-0.15233174	No	
+row_71	BTG1	BTG1	B-cell translocation gene 1, anti-proliferative	5439	-0.3542402982711792	-0.16454977	No	
+row_72	SLC6A6	SLC6A6	solute carrier family 6 (neurotransmitter transporter, taurine), member 6	5479	-0.36531853675842285	-0.16389151	No	
+row_73	GPC3	GPC3	glypican 3	5482	-0.36599764227867126	-0.15811716	No	
+row_74	ATP7A	ATP7A	ATPase, Cu++ transporting, alpha polypeptide (Menkes syndrome)	5498	-0.3689105212688446	-0.15408826	No	
+row_75	CSRP2	CSRP2	cysteine and glycine-rich protein 2	5838	-0.4572388231754303	-0.1933012	No	
+row_76	HDLBP	HDLBP	high density lipoprotein binding protein (vigilin)	6032	-0.5153180360794067	-0.21141055	No	
+row_77	P4HA1	P4HA1	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide I	6205	-0.5819978713989258	-0.22552027	No	
+row_78	GALK1	GALK1	galactokinase 1	6213	-0.584186851978302	-0.2168289	No	
+row_79	CP	CP	ceruloplasmin (ferroxidase)	6214	-0.5841919183731079	-0.20717165	No	
+row_80	DCN	DCN	decorin	6231	-0.5921043753623962	-0.19959113	No	
+row_81	COL5A1	COL5A1	collagen, type V, alpha 1	6283	-0.6114006638526917	-0.19652052	No	
+row_82	S100A4	S100A4	S100 calcium binding protein A4	6326	-0.6266827583312988	-0.19195558	No	
+row_83	CDKN1B	CDKN1B	cyclin-dependent kinase inhibitor 1B (p27, Kip1)	6519	-0.7032558917999268	-0.20682016	No	
+row_84	EXT1	EXT1	exostoses (multiple) 1	6522	-0.7041090130805969	-0.19545652	No	
+row_85	P4HA2	P4HA2	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide II	6593	-0.7358444929122925	-0.19295016	No	
+row_86	PRKCA	PRKCA	protein kinase C, alpha	6620	-0.7494604587554932	-0.18414807	No	
+row_87	ILVBL	ILVBL	ilvB (bacterial acetolactate synthase)-like	6693	-0.7934931516647339	-0.18096468	No	
+row_88	HSPA5	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)	6696	-0.7954816818237305	-0.16809055	No	
+row_89	AKAP12	AKAP12	A kinase (PRKA) anchor protein (gravin) 12	6708	-0.8102075457572937	-0.15621473	No	
+row_90	SAP30	SAP30	Sin3A-associated protein, 30kDa	6864	-0.9162097573280334	-0.16245414	No	
+row_91	ETS1	ETS1	v-ets erythroblastosis virus E26 oncogene homolog 1 (avian)	6905	-0.9488747715950012	-0.15228711	No	
+row_92	ENO2	ENO2	enolase 2 (gamma, neuronal)	6960	-1.0160865783691406	-0.1429406	No	
+row_93	NDST1	NDST1	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 1	6967	-1.0218532085418701	-0.12687622	No	
+row_94	SELENBP1	SELENBP1	selenium binding protein 1	7142	-1.2658582925796509	-0.12995702	No	
+row_95	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	7179	-1.3648601770401	-0.1123615	No	
+row_96	AK4	null	null	7209	-1.4295183420181274	-0.09273133	No	
+row_97	B4GALNT2	B4GALNT2	beta-1,4-N-acetyl-galactosaminyl transferase 2	7230	-1.4873785972595215	-0.07090295	No	
+row_98	ISG20	ISG20	interferon stimulated exonuclease gene 20kDa	7251	-1.5780566930770874	-0.047575586	No	
+row_99	TGM2	TGM2	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)	7276	-1.6758391857147217	-0.023183659	No	
+row_100	ENO3	ENO3	enolase 3 (beta, muscle)	7311	-1.9950157403945923	0.0051048663	No	

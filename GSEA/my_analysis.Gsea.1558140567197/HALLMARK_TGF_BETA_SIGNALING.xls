@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	92	1.388261079788208	0.1381414	Yes	
+row_1	RAB31	RAB31	RAB31, member RAS oncogene family	169	1.1529598236083984	0.25292423	Yes	
+row_2	BCAR3	BCAR3	breast cancer anti-estrogen resistance 3	311	0.913274884223938	0.3328131	Yes	
+row_3	PPM1A	PPM1A	protein phosphatase 1A (formerly 2C), magnesium-dependent, alpha isoform	1021	0.4732772707939148	0.28738475	Yes	
+row_4	UBE2D3	UBE2D3	ubiquitin-conjugating enzyme E2D 3 (UBC4/5 homolog, yeast)	1173	0.42170238494873047	0.31254554	Yes	
+row_5	JUNB	JUNB	jun B proto-oncogene	1244	0.40043511986732483	0.3464572	Yes	
+row_6	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	1422	0.35487431287765503	0.3608135	Yes	
+row_7	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	1872	0.25515666604042053	0.32720676	No	
+row_8	CDK9	CDK9	cyclin-dependent kinase 9 (CDC2-related kinase)	2288	0.1796690821647644	0.29004773	No	
+row_9	FNTA	FNTA	farnesyltransferase, CAAX box, alpha	2420	0.1591169536113739	0.2894343	No	
+row_10	FURIN	FURIN	furin (paired basic amino acid cleaving enzyme)	2526	0.1423329859972	0.29054883	No	
+row_11	SPTBN1	SPTBN1	spectrin, beta, non-erythrocytic 1	2532	0.141341432929039	0.3052095	No	
+row_12	SMURF2	SMURF2	SMAD specific E3 ubiquitin protein ligase 2	2554	0.13829079270362854	0.31735438	No	
+row_13	RHOA	RHOA	ras homolog gene family, member A	2831	0.09651366621255875	0.2901471	No	
+row_14	HDAC1	HDAC1	histone deacetylase 1	2959	0.08162473142147064	0.28166765	No	
+row_15	PPP1CA	PPP1CA	protein phosphatase 1, catalytic subunit, alpha isoform	3555	-0.01209064107388258	0.20174038	No	
+row_16	ARID4B	ARID4B	AT rich interactive domain 4B (RBP1- like)	3604	-0.020009800791740417	0.19735876	No	
+row_17	NCOR2	NCOR2	nuclear receptor co-repressor 2	4783	-0.21398939192295074	0.059747335	No	
+row_18	SMAD1	SMAD1	SMAD, mothers against DPP homolog 1 (Drosophila)	4809	-0.21874290704727173	0.080079556	No	
+row_19	BMPR2	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	5053	-0.2667488753795624	0.07585792	No	
+row_20	SMAD6	SMAD6	SMAD, mothers against DPP homolog 6 (Drosophila)	5294	-0.32071149349212646	0.077903815	No	
+row_21	CDH1	CDH1	cadherin 1, type 1, E-cadherin (epithelial)	5616	-0.3973355293273926	0.07720811	No	
+row_22	TJP1	TJP1	tight junction protein 1 (zona occludens 1)	5773	-0.43721598386764526	0.1033703	No	
+row_23	TRIM33	TRIM33	tripartite motif-containing 33	6007	-0.5089888572692871	0.12681043	No	
+row_24	FKBP1A	FKBP1A	FK506 binding protein 1A, 12kDa	6041	-0.517246663570404	0.17845446	No	
