@@ -18,33 +18,30 @@ knitr::opts_chunk$set(echo = TRUE)
 This is analysis for proteomics dataset generated using mouse scraped colon epithelium samples from Fabp-Cre;KRasWT and Fabp-Cre;KRasG12D mice. Emily Poulin harvested the tissue samples and the proteomics were performed by Joao Paulo. Part of the analysis code was adapted from original script from Shikha Sheth.
 
 ## Library loading and set up
-```{r}
-options(connectionObserver = NULL)
-
-suppressMessages(
-  c(library(gridExtra),
-    library(ensembldb),
-    library(EnsDb.Mmusculus.v79),
-    library(grid),
-    library(ggplot2),
-    library(lattice),
-    library(reshape),
-    library(mixOmics),
-    library(gplots),
-    library(RColorBrewer),
-    library(readr),
-    library(dplyr),
-    library(VennDiagram),
-    library(clusterProfiler),
-    library(DOSE),
-    library(org.Mm.eg.db), 
-    library(pathview),
-    library(AnnotationDbi),
-    library(tidyr),
-    library(qdapRegex),
-    library(gtools),
-    library(ggfortify))
-)
+```{r message=FALSE, warning=FALSE}
+library(gridExtra)
+library(ensembldb)
+library(EnsDb.Mmusculus.v79)
+library(grid)
+library(ggplot2)
+library(lattice)
+library(reshape)
+library(mixOmics)
+library(gplots)
+library(RColorBrewer)
+library(readr)
+library(dplyr)
+library(VennDiagram)
+library(clusterProfiler)
+library(DOSE)
+library(org.Mm.eg.db)
+library(pathview)
+library(AnnotationDbi)
+library(tidyr)
+library(qdapRegex)
+library(gtools)
+library(ggfortify)
+library(enrichplot)
 ```
 
 ## Load the proteomics dataset and statistical analysis
@@ -164,7 +161,7 @@ for (i in 1:dim(sig_dif)[1]) {
   sig_dif[i,12:19] <- zscore(as.numeric(sig_dif[i,12:19]))
 }
 
-my_palette <- colorRampPalette(c("red", "white", "blue"))(256)
+my_palette <- colorRampPalette(c("blue", "white", "red"))(256)
 heatmap_matrix <- as.matrix(sig_dif[,12:19])
 
 png('G12D vs WT colon proteomics.png',
@@ -389,6 +386,7 @@ Final output is following:
 ### Draw enrichment Go plot representing the results
 #### Biological Process
 ```{r}
+ego_BP <- pairwise_termsim(ego_BP)
 png('GO/GO enrichment_BP.png',
     width = 1600,
     height = 1600,
@@ -407,6 +405,7 @@ Final output is following:
 ![BP_enrichplot](/Users/mizuhi/OneDrive - Harvard University/Haigis Lab/Projects/Halo-Ago2/Halo-Ago-KRas/Raw Data/Proteomics data/scraped colon/GO/GO enrichment_BP.png)
 #### Molecular Function
 ```{r}
+ego_MF <- pairwise_termsim(ego_MF)
 png('GO/GO enrichment_MF.png',
     width = 1000,
     height = 1000,
@@ -425,6 +424,8 @@ Final output is following:
 ![MF_enrichplot](/Users/mizuhi/OneDrive - Harvard University/Haigis Lab/Projects/Halo-Ago2/Halo-Ago-KRas/Raw Data/Proteomics data/scraped colon/GO/GO enrichment_MF.png)
 #### Cellular Component
 ```{r}
+ego_CC <- pairwise_termsim(ego_CC)
+
 png('GO/GO enrichment_CC.png',
     width = 1000,
     height = 1000,
@@ -553,4 +554,9 @@ is.na(annotations_edb$ENSEMBL) %>%
 colon_proteom <- inner_join(colon_proteom, annotations_edb, by=c("Protein Id"="UNIPROT"))
 
 write.csv(colon_proteom, "GSEA/Raw Quantification.csv")
+```
+
+## SessionInfo
+```{r}
+sessionInfo()
 ```
